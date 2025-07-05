@@ -12,3 +12,5 @@ Tools Used:
 Power BI Desktop - To create the dashboard
 DAX - To calculate Sales Growth
 Excel-Data Cleaning 
+ScreenShot:
+Example: [Dashboard Preview].(https://github.com/Shant2109N/SALES-PERFORMANCE/blob/main/Sales%20Performance.JPG).
